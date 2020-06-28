@@ -13,3 +13,5 @@ Er trainiert bei den besten Kampfkünstlern und trägt ein Fledermauskostüm, um
 
 > Ich wünsche allen Einwohnern Gotham Citys, dass sie von kriminellen Elementen verschont werden. Doch sollten sich die Kräfte des Bösen irgendwann wieder erheben, und ihren Schatten auf das Herz der Stadt werfen, so ruft mich.
 
+<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Batman_%28circa_2016%29.png" />
+
