@@ -11,3 +11,5 @@ Er trainiert bei den besten Kampfkünstlern und trägt ein Fledermauskostüm, um
 * Intelligent, willensstark
 * Benutz keine Schusswaffen aber viele technische Hilfsmittel
 
+> "Ich wünsche allen Einwohnern Gotham Citys, dass sie von kriminellen Elementen verschont werden. Doch sollten sich die Kräfte des Bösen irgendwann wieder erheben, und ihren Schatten auf das Herz der Stadt werfen, so ruft mich."
+
